@@ -1,0 +1,12 @@
+diff --git a/src/metadata.json b/src/metadata.json
+index 6079e3a..dea3a3a 100644
+--- a/src/metadata.json
++++ b/src/metadata.json
+@@ -4,6 +4,6 @@
+ "description": "Integrate redshift toggle into the user menu",
+ "original-author": "thomas@tommie-lie.de",
+ "url": "https://github.com/tommie-lie/gnome-shell-extension-redshift",
+-"shell-version": [ "3.6", "3.8", "3.12" ],
++"shell-version": [ "3.6", "3.8", "3.12", "3.14" ],
+ "settings-schema": "org.gnome.shell.extensions.redshift"
+ }

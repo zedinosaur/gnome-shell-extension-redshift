@@ -1,0 +1,19 @@
+Source: gnome-shell-extension-redshift
+Section: gnome
+Priority: extra
+Maintainer: Eric Dorland <eric@debian.org>
+Build-Depends: debhelper (>= 9), dh-autoreconf,
+ gnome-common, libglib2.0-dev
+Standards-Version: 3.9.6
+Homepage: https://github.com/tommie-lie/gnome-shell-extension-redshift
+
+Package: gnome-shell-extension-redshift
+Architecture: all
+Depends: ${misc:Depends},
+         redshift,
+         gnome-shell (>= 3.8),
+         gnome-shell (<< 3.15),
+Recommends: gnome-tweak-tool
+Description: redshift extension for GNOME Shell
+ GNOME shell extension to control redshift, which adjusts the color
+ temperature of your screen.

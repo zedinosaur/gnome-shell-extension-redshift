@@ -1,0 +1,6 @@
+gnome-shell-extension-redshift (0~20141101.git3091f6f-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #768248)
+
+ -- Eric Dorland <eric@debian.org>  Sat, 08 Nov 2014 21:22:32 -0500
+
