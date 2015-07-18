@@ -1,3 +1,9 @@
+gnome-shell-extension-redshift (0~20141101.git3091f6f-2) unstable; urgency=medium
+
+  * debian/gbp.conf: Use upstream-vcs-tag for gbp.
+
+ --
+
 gnome-shell-extension-redshift (0~20141101.git3091f6f-1) unstable; urgency=medium
 
   * Initial release. (Closes: #768248)
