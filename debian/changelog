@@ -6,6 +6,8 @@ gnome-shell-extension-redshift (3.16.1-1) unstable; urgency=medium
   * debian/control: Fix dependencies for Gnome 3.16.
   * debian/control, debian/copyright: Run wrap-and-sort.
   * debian/control: Add Recommends on geoclue-2.0.
+  * debian/patches/01-gnome-3.14.diff: Drop now unnecessary gnome 3.14
+    patch.
 
  -- Eric Dorland <eric@debian.org>  Sun, 19 Jul 2015 01:41:54 -0400
 
