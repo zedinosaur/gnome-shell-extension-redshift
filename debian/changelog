@@ -4,6 +4,7 @@ gnome-shell-extension-redshift (3.16.1-1) unstable; urgency=medium
   * debian/gbp.conf: Use upstream-vcs-tag for gbp.
   * debian/gbp.conf: Fix debian-branch for gbp.
   * debian/control: Fix dependencies for Gnome 3.16.
+  * debian/control, debian/copyright: Run wrap-and-sort.
 
  --
 
