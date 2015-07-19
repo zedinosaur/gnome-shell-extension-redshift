@@ -12,7 +12,7 @@ Architecture: all
 Depends: ${misc:Depends},
          redshift,
          gnome-shell (>= 3.8),
-         gnome-shell (<< 3.15),
+         gnome-shell (<< 3.17),
 Recommends: gnome-tweak-tool
 Description: redshift extension for GNOME Shell
  GNOME shell extension to control redshift, which adjusts the color

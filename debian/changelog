@@ -3,6 +3,7 @@ gnome-shell-extension-redshift (3.16.1-1) unstable; urgency=medium
   * New upstream release. (Closes: #785537, #788807)
   * debian/gbp.conf: Use upstream-vcs-tag for gbp.
   * debian/gbp.conf: Fix debian-branch for gbp.
+  * debian/control: Fix dependencies for Gnome 3.16.
 
  --
 
