@@ -5,8 +5,9 @@ gnome-shell-extension-redshift (3.16.1-1) unstable; urgency=medium
   * debian/gbp.conf: Fix debian-branch for gbp.
   * debian/control: Fix dependencies for Gnome 3.16.
   * debian/control, debian/copyright: Run wrap-and-sort.
+  * debian/control: Add Recommends on geoclue-2.0.
 
- --
+ -- Eric Dorland <eric@debian.org>  Sun, 19 Jul 2015 01:41:54 -0400
 
 gnome-shell-extension-redshift (0~20141101.git3091f6f-1) unstable; urgency=medium
 
