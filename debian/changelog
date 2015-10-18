@@ -1,6 +1,7 @@
 gnome-shell-extension-redshift (3.18.1-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #801887)
+  * debian/control: Bump gnome dependency to 3.18.
 
  --
 
