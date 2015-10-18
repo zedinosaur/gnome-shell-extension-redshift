@@ -5,6 +5,8 @@ Maintainer: Eric Dorland <eric@debian.org>
 Build-Depends: debhelper (>= 9), dh-autoreconf, gnome-common, libglib2.0-dev
 Standards-Version: 3.9.6
 Homepage: https://github.com/tommie-lie/gnome-shell-extension-redshift
+Vcs-Git: https://github.com/zedinosaur/gnome-shell-extension-redshift.git
+Vcs-Browser: https://github.com/zedinosaur/gnome-shell-extension-redshift.git
 
 Package: gnome-shell-extension-redshift
 Architecture: all
