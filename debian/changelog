@@ -1,3 +1,9 @@
+gnome-shell-extension-redshift (3.18.1-1) unstable; urgency=medium
+
+  * New upstream release. (Closes: #801887)
+
+ --
+
 gnome-shell-extension-redshift (3.16.1-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #785537, #788807)
