@@ -3,8 +3,9 @@ gnome-shell-extension-redshift (3.18.1-1) unstable; urgency=medium
   * New upstream release. (Closes: #801887)
   * debian/control: Bump gnome dependency to 3.18.
   * debian/control: Add Vcs-* headers.
+  * debian/watch: Add watch file.
 
- --
+ -- Eric Dorland <eric@debian.org>  Sun, 18 Oct 2015 02:43:23 -0400
 
 gnome-shell-extension-redshift (3.16.1-1) unstable; urgency=medium
 
