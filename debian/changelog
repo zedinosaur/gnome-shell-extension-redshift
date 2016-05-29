@@ -1,6 +1,7 @@
 gnome-shell-extension-redshift (3.20.1-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #824704)
+  * debian/control: Upgrade Standards-Version to 3.9.8.
 
  --
 
