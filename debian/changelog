@@ -1,3 +1,12 @@
+gnome-shell-extension-redshift (3.20.1-2) unstable; urgency=medium
+
+  * debian/control: Drop strict forward dependency on gnome-shell. It is
+    no longer necessary
+    (https://git.gnome.org/browse/gnome-shell/commit/?id=5e0e3e). Thanks
+    Michael Biebl.
+
+ -- Eric Dorland <eric@debian.org>  Sun, 18 Sep 2016 21:38:12 -0400
+
 gnome-shell-extension-redshift (3.20.1-1) unstable; urgency=medium
 
   * New upstream release. (Closes: #824704)

@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/zedinosaur/gnome-shell-extension-redshift.git
 
 Package: gnome-shell-extension-redshift
 Architecture: all
-Depends: gnome-shell (<< 3.21), gnome-shell (>= 3.8), redshift, ${misc:Depends}
+Depends: gnome-shell (>= 3.8), redshift, ${misc:Depends}
 Recommends: geoclue-2.0, gnome-tweak-tool
 Description: redshift extension for GNOME Shell
  GNOME shell extension to control redshift, which adjusts the color
